@@ -1,0 +1,25 @@
+.main {
+
+  .title {
+    .titleLeft {
+      font-size: 0.4rem;
+    }
+
+    .more {
+      font-size: 0.16rem;
+    }
+  }
+
+  .top {
+    // margin
+  }
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+
+  .item {
+    width: 50%;
+  }
+}
